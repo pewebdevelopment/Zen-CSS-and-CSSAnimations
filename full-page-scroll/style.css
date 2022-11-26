@@ -9,9 +9,32 @@ section {
   height: 100vh;
   display: flex;
   justify-content: center;
-  align-items:center;
-  
-  .one{
-    background: rgb(36,164,138);
+  align-items: center;
+  color: aliceblue;
+}
 
-  }
+.one {
+  background: rgb(0, 209, 167);
+}
+
+.two {
+  background: rgb(0, 123, 255);
+}
+
+.three {
+  background: rgb(208, 255, 0);
+}
+
+.three h1 {
+  color: rgb(37, 36, 1);
+  /* background: rgb(7, 121, 234); */
+}
+
+.four {
+  background: rgb(31, 32, 33);
+}
+
+.four h1 {
+  color: whitesmoke;
+  /* background: rgb(7, 121, 234); */
+}
