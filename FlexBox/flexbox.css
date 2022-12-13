@@ -16,7 +16,7 @@ body {
 }
 // ^ is called as the "caret"
 
-[class^="box-"] {
+[class^="box"] {
   width: 140px;
   height: 140px;
   background-color: skyblue;
