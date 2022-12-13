@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  color: white;
+  background-color: rgb(33, 33, 33);
+}
+
+.container {
+  height: 100vh;
+  background-color: ;
+  padding: 0px;
+  margin: 0px;
+  color: rgb(197, 197, 197);
+}
+// ^ is called as the "caret"
+
+[class^="box-"] {
+  width: 140px;
+  height: 140px;
+  background-color: skyblue;
+  border: 2px solid black;
+  font-size: 65px;
+}
